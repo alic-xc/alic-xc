@@ -5,6 +5,21 @@ Full Stack Engineer using python, Django, HTML5, CSS3, vannila JS and React Nati
 
 [Email](https://mailto:aladelekan187@gmail.com) / [Github](https://github.com/alic-xc) / [Twitter](https://twitter.com/aladelekan187) / [LinkedIn](linkedin.com/in/alade-lekan-82319b165)
   
+  ## My Tech Tools
+  
+  - **HTML 5**
+  - **CSS 3**
+  - **JS**
+  - **React-Native**
+  - **Python**
+  - **Django**
+  - **Functional Programming**
+  - **API Integration**
+  - **Pair Programming**
+  - **GIT**
+  - **GIT ACTION**
+  - **CI/CD**
+ 
   ## Technical Experience
     
   **Full Stack Developer with API integration** [@](https://ideathinkers.com.ng) ideathinkers / Brade Networks (Sep 2019 - Present)
