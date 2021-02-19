@@ -15,7 +15,7 @@ Full Stack Engineer using python, Django, HTML5, CSS3, vannila JS and React Nati
   - Building Frontend for RESTFUL API integration
   - Technologies used: **HTML5**, **CSS3**, **JS**, **Python**, **Django**
    
-  **Freelancer ** [@](https://upwork.com) perceptum (Oct 2020 - Feb 2021)
+  **Freelancer** [@](https://upwork.com) Upwork - perceptum (Oct 2020 - Feb 2021)
   
   i worked as a medium level Full Stack Development specialist. I help developed views and templates for projects.
   
@@ -23,11 +23,12 @@ Full Stack Engineer using python, Django, HTML5, CSS3, vannila JS and React Nati
   - Building Skill Assessment project
   - Technologies used: **HTML5**, **CSS3**, **JS**, **Python**, **Django**
  
-  **IT specialist ** @ Sosamak Computer Institue (May 2018 - Jan 2020)
+  **IT specialist** @ Sosamak Computer Institue (May 2018 - Jan 2020)
   
   I help provide direct support to clients and end users. This include helping set up hardware or software, diagnosing connectivity or data access                     problems,answering questions about hardware or software, and helping users access shared drives and devices.  
   
-  - Building an After School Project
-  - Building Skill Assessment project
-  - Technologies used: **HTML5**, **CSS3**, **JS**, **Python**, **Django**
+  - Troubleshooting PC/ Devices
+  - Installing software and hardware on PC/Linux
+  - Protecting Data by using Secure Anti-Virus
+  - Diagnosing Network connectivity
     
