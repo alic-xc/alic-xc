@@ -7,7 +7,7 @@ Full Stack Engineer using python, Django, HTML5, CSS3, vannila JS and React Nati
   
   ## Technical Experience
     
-  **Full Stack Developer with API integration** [@](https://ideathinkers.com.ng) ideathinkers (Sep 2019 - Present)
+  **Full Stack Developer with API integration** [@](https://ideathinkers.com.ng) ideathinkers / Brade Networks (Sep 2019 - Present)
   
   i build web apps for clients from static websites to e-commerce. Also, i build frontend for API integrations for Fintech and other complex solutions
   
@@ -15,4 +15,19 @@ Full Stack Engineer using python, Django, HTML5, CSS3, vannila JS and React Nati
   - Building Frontend for RESTFUL API integration
   - Technologies used: **HTML5**, **CSS3**, **JS**, **Python**, **Django**
    
+  **Freelancer ** [@](https://upwork.com) perceptum (Oct 2020 - Feb 2021)
+  
+  i worked as a medium level Full Stack Development specialist. I help developed views and templates for projects.
+  
+  - Building an After School Project
+  - Building Skill Assessment project
+  - Technologies used: **HTML5**, **CSS3**, **JS**, **Python**, **Django**
+ 
+  **IT specialist ** @ Sosamak Computer Institue (May 2018 - Jan 2020)
+  
+  I help provide direct support to clients and end users. This include helping set up hardware or software, diagnosing connectivity or data access                     problems,answering questions about hardware or software, and helping users access shared drives and devices.  
+  
+  - Building an After School Project
+  - Building Skill Assessment project
+  - Technologies used: **HTML5**, **CSS3**, **JS**, **Python**, **Django**
     
